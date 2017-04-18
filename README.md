@@ -16,3 +16,4 @@ The `-C` flag means "case-sensitive" and will treat your target as such, making 
 ##Todo:
  + Make installation better lol
  + Additional CLI argument for directories you want to ignore
+ + Colorful output
